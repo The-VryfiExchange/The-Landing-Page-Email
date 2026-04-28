@@ -1,0 +1,10 @@
+{
+  "name": "vryfid-webhook",
+  "version": "1.0.0",
+  "description": "Webhook bridge from Getwaitlist to Mailchimp for VryfID's The Exchange",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18.x"
+  }
+}

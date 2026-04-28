@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/getwaitlist-to-mailchimp.js": {
+      "maxDuration": 10
+    }
+  }
+}
